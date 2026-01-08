@@ -1,7 +1,7 @@
 <template>
   <div class="promotional-section">
     <div class="promo-heading">
-      <h1>Judiku88 | JDK88: A Trusted Online Casino Malaysia Platform in 2025</h1>
+      <h1>Judiku88 | JDK88: A Trusted Online Casino Malaysia Platform in 2026</h1>
       <div class="heading-underline"></div>
     </div>
     
@@ -86,7 +86,7 @@
       <p>These platforms understand the value of loyalty and reward players with consistent cashback and prize draws.</p>
       
       <div class="promo-heading">
-        <h2>Is Judiku88/JDK88 Worth It in 2025?</h2>
+        <h2>Is Judiku88/JDK88 Worth It in 2026?</h2>
         <div class="heading-underline"></div>
       </div>
       

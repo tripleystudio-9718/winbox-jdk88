@@ -472,7 +472,7 @@ const navigateToLogin = () => {
 </div>
 <br><br><br><br>
 <div class="footer-details4">
-  <p>2025 JUDIKU88. ALL RIGHTS RESERVED.</p>
+  <p>2026 JUDIKU88. ALL RIGHTS RESERVED.</p>
 </div>
 </div>
 </div>
